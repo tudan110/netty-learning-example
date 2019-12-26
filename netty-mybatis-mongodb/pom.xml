@@ -10,8 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>netty :: Mybatis :: MongoDB</name>
-    <groupId>com.sanshengshui</groupId>
-    <artifactId>netty-mybatis-mongdb</artifactId>
+    <artifactId>netty-mybatis-mongodb</artifactId>
     <description>netty之mybaits持久化数据之mongodb中</description>
 
     <properties>

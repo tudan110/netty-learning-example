@@ -10,7 +10,6 @@
     </parent>
 
     <name>netty :: Jpa :: MySQL</name>
-    <groupId>com.sanshengshui</groupId>
     <artifactId>netty-jpa-mysql</artifactId>
     <description>netty之jpa持久化数据至MySql</description>
 
